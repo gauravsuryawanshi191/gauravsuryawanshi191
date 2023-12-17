@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravsuryawanshi191&label=Profile%20views&color=0e75b6&style=flat" alt="gauravsuryawanshi191" /> </p>
+<h1 align="center">Hi 👋, Gaurav Suryawanshi here!</h1>
 
-<!--
-**gauravsuryawanshi191/gauravsuryawanshi191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[LinkedIN
+](https://www.linkedin.com/in/gaurav-suryawanshi-15568922a//)     
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravsuryawanshi191" alt="gauravsuryawanshi191" /></a> </p>
+
+Things we work with
+- JAVA
+- WEB Development
+- Database
+- MS.NET
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gauravsuryawanshi191&show_icons=true&locale=en&layout=compact" alt="gauravsuryawanshi191" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gauravsuryawanshi191&show_icons=true&locale=en" alt="gauravsuryawanshi191" /></p>
